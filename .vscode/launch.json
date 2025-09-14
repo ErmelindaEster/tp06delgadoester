@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Tp06delgadoesterApplication<tp06delgadoester>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ies6.edu.ar.tp06delgadoester.Tp06delgadoesterApplication",
+            "projectName": "tp06delgadoester",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

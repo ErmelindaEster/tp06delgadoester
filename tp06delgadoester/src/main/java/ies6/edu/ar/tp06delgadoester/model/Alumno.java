@@ -11,7 +11,7 @@ public class Alumno {
     private String condicion; 
 
 
-   // constructor por defento
+   // constructor por defecto
    public Alumno(){
 }
 // Constructor parametrizado
